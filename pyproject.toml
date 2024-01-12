@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "ffcvs-dec23-python-finalproject-negar-amingheydari"
+version = "0.1.0"
+description = ""
+authors = ["Negar <negar.amin7@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+pandas = "^2.1.4"
+jdatetime = "^4.1.1"
+openpyxl = "^3.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

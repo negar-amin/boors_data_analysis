@@ -1,0 +1,111 @@
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:06:38.799996 : Excel file '1401-11-01.xlsx' saved to 'stage\1401-11-01.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:06:41.222548 : Excel file '1401-11-02.xlsx' saved to 'stage\1401-11-02.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:06:43.957413 : Excel file '1401-11-03.xlsx' saved to 'stage\1401-11-03.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:06:46.816706 : Excel file '1401-11-04.xlsx' saved to 'stage\1401-11-04.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:06:49.759508 : Excel file '1401-11-05.xlsx' saved to 'stage\1401-11-05.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:06:53.34136 : Excel file '1401-11-08.xlsx' saved to 'stage\1401-11-08.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:06:55.862424 : Excel file '1401-11-09.xlsx' saved to 'stage\1401-11-09.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:00.923272 : Excel file '1401-11-10.xlsx' saved to 'stage\1401-11-10.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:03.612712 : Excel file '1401-11-11.xlsx' saved to 'stage\1401-11-11.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:06.277505 : Excel file '1401-11-12.xlsx' saved to 'stage\1401-11-12.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:08.778131 : Excel file '1401-11-15.xlsx' saved to 'stage\1401-11-15.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:12.277948 : Excel file '1401-11-16.xlsx' saved to 'stage\1401-11-16.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:14.976868 : Excel file '1401-11-17.xlsx' saved to 'stage\1401-11-17.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:18.247169 : Excel file '1401-11-18.xlsx' saved to 'stage\1401-11-18.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:20.725622 : Excel file '1401-11-19.xlsx' saved to 'stage\1401-11-19.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:24.385218 : Excel file '1401-11-22.xlsx' saved to 'stage\1401-11-22.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:28.512595 : Excel file '1401-11-23.xlsx' saved to 'stage\1401-11-23.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:31.223013 : Excel file '1401-11-24.xlsx' saved to 'stage\1401-11-24.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:34.431549 : Excel file '1401-11-25.xlsx' saved to 'stage\1401-11-25.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:37.259178 : Excel file '1401-11-26.xlsx' saved to 'stage\1401-11-26.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:39.199263 : Excel file '1401-11-29.xlsx' saved to 'stage\1401-11-29.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:07:41.718863 : Excel file '1401-11-30.xlsx' saved to 'stage\1401-11-30.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:16.865953 : Excel file '1401-11-01.xlsx' saved to 'stage\1401-11-01.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:22.199988 : Excel file '1401-11-02.xlsx' saved to 'stage\1401-11-02.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:25.17690 : Excel file '1401-11-03.xlsx' saved to 'stage\1401-11-03.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:28.692936 : Excel file '1401-11-04.xlsx' saved to 'stage\1401-11-04.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:32.72682 : Excel file '1401-11-05.xlsx' saved to 'stage\1401-11-05.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:35.335995 : Excel file '1401-11-08.xlsx' saved to 'stage\1401-11-08.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:38.981668 : Excel file '1401-11-09.xlsx' saved to 'stage\1401-11-09.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:41.764116 : Excel file '1401-11-10.xlsx' saved to 'stage\1401-11-10.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:44.907933 : Excel file '1401-11-11.xlsx' saved to 'stage\1401-11-11.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:48.288344 : Excel file '1401-11-12.xlsx' saved to 'stage\1401-11-12.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:50.937515 : Excel file '1401-11-15.xlsx' saved to 'stage\1401-11-15.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:53.712158 : Excel file '1401-11-16.xlsx' saved to 'stage\1401-11-16.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:56.882895 : Excel file '1401-11-17.xlsx' saved to 'stage\1401-11-17.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:35:59.720544 : Excel file '1401-11-18.xlsx' saved to 'stage\1401-11-18.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:36:02.975832 : Excel file '1401-11-19.xlsx' saved to 'stage\1401-11-19.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:36:05.814822 : Excel file '1401-11-22.xlsx' saved to 'stage\1401-11-22.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:36:08.83758 : Excel file '1401-11-23.xlsx' saved to 'stage\1401-11-23.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:36:11.49852 : Excel file '1401-11-24.xlsx' saved to 'stage\1401-11-24.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:36:13.973251 : Excel file '1401-11-25.xlsx' saved to 'stage\1401-11-25.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:36:16.335841 : Excel file '1401-11-26.xlsx' saved to 'stage\1401-11-26.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:36:18.67061 : Excel file '1401-11-29.xlsx' saved to 'stage\1401-11-29.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:36:21.294474 : Excel file '1401-11-30.xlsx' saved to 'stage\1401-11-30.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:17.747119 : Excel file '1401-11-01.xlsx' saved to 'stage\1401-11-01.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:20.389117 : Excel file '1401-11-02.xlsx' saved to 'stage\1401-11-02.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:22.755662 : Excel file '1401-11-03.xlsx' saved to 'stage\1401-11-03.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:25.932539 : Excel file '1401-11-04.xlsx' saved to 'stage\1401-11-04.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:28.645330 : Excel file '1401-11-05.xlsx' saved to 'stage\1401-11-05.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:31.547882 : Excel file '1401-11-08.xlsx' saved to 'stage\1401-11-08.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:34.956740 : Excel file '1401-11-09.xlsx' saved to 'stage\1401-11-09.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:37.372185 : Excel file '1401-11-10.xlsx' saved to 'stage\1401-11-10.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:40.139831 : Excel file '1401-11-11.xlsx' saved to 'stage\1401-11-11.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:43.67490 : Excel file '1401-11-12.xlsx' saved to 'stage\1401-11-12.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:45.618923 : Excel file '1401-11-15.xlsx' saved to 'stage\1401-11-15.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:48.816315 : Excel file '1401-11-16.xlsx' saved to 'stage\1401-11-16.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:51.104065 : Excel file '1401-11-17.xlsx' saved to 'stage\1401-11-17.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:53.438018 : Excel file '1401-11-18.xlsx' saved to 'stage\1401-11-18.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:52:57.167011 : Excel file '1401-11-19.xlsx' saved to 'stage\1401-11-19.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:53:00.228436 : Excel file '1401-11-22.xlsx' saved to 'stage\1401-11-22.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:53:02.666494 : Excel file '1401-11-23.xlsx' saved to 'stage\1401-11-23.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:53:05.537184 : Excel file '1401-11-24.xlsx' saved to 'stage\1401-11-24.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:53:08.682192 : Excel file '1401-11-25.xlsx' saved to 'stage\1401-11-25.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:53:11.516464 : Excel file '1401-11-26.xlsx' saved to 'stage\1401-11-26.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:53:13.681671 : Excel file '1401-11-29.xlsx' saved to 'stage\1401-11-29.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 19:53:16.698096 : Excel file '1401-11-30.xlsx' saved to 'stage\1401-11-30.xlsx' successfully.
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 20:56:27.50100 : File is not a zip file
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 20:58:51.968891 : File is not a zip file
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 21:12:05.257237 : 'Worksheet دیده بان بازار does not exist.'
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 21:13:58.250416 : [Errno 13] Permission denied: 'stage\\1401-11-01.xlsx'
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 21:14:30.804181 : 'Worksheet دیده بان بازار does not exist.'
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 21:16:18.1432 : 'Worksheet dideban does not exist.'
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 21:18:30.692863 : [Errno 13] Permission denied: 'stage\\1401-11-01.xlsx'
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:18:51.638877 : Excel file '1401-11-01.xlsx' saved to 'stage\1401-11-01.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:18:55.321221 : Excel file '1401-11-02.xlsx' saved to 'stage\1401-11-02.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:18:58.460613 : Excel file '1401-11-03.xlsx' saved to 'stage\1401-11-03.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:01.186362 : Excel file '1401-11-04.xlsx' saved to 'stage\1401-11-04.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:03.915885 : Excel file '1401-11-05.xlsx' saved to 'stage\1401-11-05.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:06.276714 : Excel file '1401-11-08.xlsx' saved to 'stage\1401-11-08.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:09.520477 : Excel file '1401-11-09.xlsx' saved to 'stage\1401-11-09.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:12.973841 : Excel file '1401-11-10.xlsx' saved to 'stage\1401-11-10.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:15.859051 : Excel file '1401-11-11.xlsx' saved to 'stage\1401-11-11.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:18.911318 : Excel file '1401-11-12.xlsx' saved to 'stage\1401-11-12.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:21.290558 : Excel file '1401-11-15.xlsx' saved to 'stage\1401-11-15.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:24.527272 : Excel file '1401-11-16.xlsx' saved to 'stage\1401-11-16.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:27.685938 : Excel file '1401-11-17.xlsx' saved to 'stage\1401-11-17.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:30.950518 : Excel file '1401-11-18.xlsx' saved to 'stage\1401-11-18.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:34.489422 : Excel file '1401-11-19.xlsx' saved to 'stage\1401-11-19.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:37.343316 : Excel file '1401-11-22.xlsx' saved to 'stage\1401-11-22.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:39.882800 : Excel file '1401-11-23.xlsx' saved to 'stage\1401-11-23.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:42.893617 : Excel file '1401-11-24.xlsx' saved to 'stage\1401-11-24.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:46.330425 : Excel file '1401-11-25.xlsx' saved to 'stage\1401-11-25.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:49.551039 : Excel file '1401-11-26.xlsx' saved to 'stage\1401-11-26.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:51.557313 : Excel file '1401-11-29.xlsx' saved to 'stage\1401-11-29.xlsx' successfully.
+INFO:root:extract_transactions_xlsx_files.py 1402-10-22 21:19:54.149089 : Excel file '1401-11-30.xlsx' saved to 'stage\1401-11-30.xlsx' successfully.
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 21:21:09.547659 : 'Worksheet  does not exist.'
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 21:22:16.834461 : list index out of range
+ERROR:root:extract_transactions_xlsx_files.py 1402-10-22 21:27:32.799270 : 'WriteOnlyWorksheet' object has no attribute 'max_row'
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:03:30.900959stage\1401-11-15.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:03:31.875937stage\1401-11-22.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:03:32.934770stage\1401-11-29.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:05:58.555924 : stage\1401-11-15.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:05:59.745913 : stage\1401-11-22.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:06:00.742981 : stage\1401-11-29.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:07:17.130036 : 1401-11-15.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:07:18.465319 : 1401-11-22.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:07:19.640370 : 1401-11-29.xlsx was empty.
+ERROR:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:25:24.691180 : [WinError 2] The system cannot find the file specified: '1401-11-01.xlsx'
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:33:38.815189 : 1401-11-15.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:33:40.313195 : 1401-11-22.xlsx was empty.
+INFO:root:convert_xlsx_files_to_csv_files.py 2024-01-12 22:33:41.529057 : 1401-11-29.xlsx was empty.
