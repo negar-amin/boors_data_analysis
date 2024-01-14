@@ -4,7 +4,7 @@ import re
 import jdatetime
 import logging
 from urllib.parse import urlparse, unquote
-import openpyxl
+import argparse
 
 # Retrun all dates between start and end date except thursdays and fridays
 def date_range(start_date: jdatetime.datetime,end_date: jdatetime.datetime):
@@ -18,6 +18,7 @@ def date_range(start_date: jdatetime.datetime,end_date: jdatetime.datetime):
                 all_dates.append(f"{date.year}-{str(date.month).zfill(2)}-{str(date.day).zfill(2)}")
         return all_dates
     except Exception as err:
+        print("something went wrong for more information look error.log")
         logging.error(os.path.basename(__file__) +" "+ str(jdatetime.datetime.now()) + f" : {err}")
 
 # Extract Exel files of transactions
@@ -45,17 +46,22 @@ def extract_xlsx_files(start_date: list[str], end_date: list[str]):
                 if response.status_code == 200:
                     with open(local_file_path, 'wb') as excel_file:
                         excel_file.write(response.content)
-
+                    print("proccess successfull see error.log for more info")
                     logging.info(os.path.basename(__file__)+" "+ str(jdatetime.datetime.now())+f" : Excel file '{file_name}' saved to '{local_file_path}' successfully.")
                 else:
+                    print("something went wrong for more information look error.log")
                     logging.warning(os.path.basename(__file__) +" "+ str(jdatetime.datetime.now())+f" : Failed to fetch Excel file. Status code: {response.status_code}")
         except Exception as err:
+            print("something went wrong for more information look error.log")
             logging.error(os.path.basename(__file__) +" "+ str(jdatetime.datetime.now()) + f" : {err}")
+    else:
+        print("something went wrong for more information look error.log")
+        logging.error(os.path.basename(__file__) +" "+ str(jdatetime.datetime.now()) +f" start_date:{'-'.join(start_date)} or end_date:{'-'.join(end_date)} were not in correct format")
 
-logging.basicConfig(filename='error.log', encoding='utf-8', level=logging.INFO)
 if __name__ == "__main__": 
-    
-    start_date = input("enter start date with format ####-##-##:").split("-")
-    end_date = input("enter start date with format ####-##-##:").split("-")
-
-    extract_xlsx_files(start_date,end_date)
+    logging.basicConfig(filename='error.log', encoding='utf-8', level=logging.INFO)
+    parser = argparse.ArgumentParser(description="extract exel files of bourse from start_date to end_date given by argparse")
+    parser.add_argument("start_date",type=str,help="starting date of exel files we want to extract")
+    parser.add_argument("end_date",type=str,help="end date of exel files we want to extract")
+    args = parser.parse_args() 
+    extract_xlsx_files(args.start_date.split("-"),args.end_date.split("-"))
