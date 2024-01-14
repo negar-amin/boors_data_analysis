@@ -35,7 +35,7 @@ def extract_xlsx_files(start_date: list[str], end_date: list[str]):
             #For each date in given range save the related xlsx file to stage
             for date in all_dates:
                 excel_file_url = 'http://members.tsetmc.com/tsev2/excel/MarketWatchPlus.aspx?d='+ date
-                data_folder = 'stage'
+                data_folder = 'datalake'
                 os.makedirs(data_folder, exist_ok=True)
                 file_name = f"{date}.xlsx"
                 local_file_path = os.path.join(data_folder, file_name)

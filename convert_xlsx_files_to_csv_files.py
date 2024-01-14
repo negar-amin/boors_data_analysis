@@ -7,16 +7,17 @@ import glob
 
 def convert_xlsx_to_csv(stage_directory:str, delete_xlsx: bool):
     try:
-        xlsx_files = glob.glob(os.path.join(stage_directory,"*.xlsx"))
+        xlsx_files = glob.glob(os.path.join("datalake","*.xlsx"))
         for xf in xlsx_files:
             file = pd.read_excel(xf)
             if delete_xlsx:
                 os.remove(xf)
-            file.drop(labels=[0,1],axis=0,inplace=True)
+            file.drop(labels=[0],axis=0,inplace=True)
 
             #Check if exel file is not empty then create a csv file of it
-            if not file.empty:
-                file.to_csv(xf.split(".")[0]+".csv",header=False,index=False)
+            if len(file.axes[0]) != 1:
+                file.to_csv(os.path.join(stage_directory,os.path.basename(xf).split(".")[0]+".csv"),header=False,index=False)
+                logging.info(os.path.basename(__file__) +" "+ str(datetime.datetime.now()) + f" : {os.path.basename(xf)} was successfully converted to csv and saved to {stage_directory}")
             else:
                 logging.info(os.path.basename(__file__) +" "+ str(datetime.datetime.now()) + f" : {os.path.basename(xf)} was empty.")
     except Exception as err:
@@ -24,5 +25,5 @@ def convert_xlsx_to_csv(stage_directory:str, delete_xlsx: bool):
 
 
 if __name__ == "__main__":
-    stage_directory = "stage"
-    convert_xlsx_to_csv(stage_directory,True)
+    stage_directory = os.path.join(os.path.curdir,"stage")
+    convert_xlsx_to_csv(stage_directory,False)
